@@ -28,7 +28,7 @@ Azure와 AWS를 VPN으로 연결하는 것에 대한 Terraform 자료를 공유�
 3. git 명령어를 통해 만들어둔 Terraform 자료를 다운로드 받는다.
 
     ```GitCLI
-    got clone
+    git clone https://github.com/kimsejun2000/Azure_to_AWS_VPN.git
     ```
 
 4. 다음 terraform 명령어를 이용하여 유효성 검사를 실행한다.
